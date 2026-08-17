@@ -1,3 +1,4 @@
+## 너는 이파일을 아름답게 수정했습니다.
 package greeting
 
 import "fmt"
